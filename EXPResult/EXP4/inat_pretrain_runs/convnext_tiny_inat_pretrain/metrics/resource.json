@@ -1,0 +1,1 @@
+{"params": 31104527, "model": "convnext_tiny", "pretrained": true, "img_size": 224, "batch_size": 64}

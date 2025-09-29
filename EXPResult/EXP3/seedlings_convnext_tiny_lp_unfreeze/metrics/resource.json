@@ -1,0 +1,1 @@
+{"strategy": "lp_unfreeze", "model": "convnext_tiny", "img_size": 224, "batch_size": 128, "params": 27829356}

@@ -1,0 +1,8 @@
+{
+  "model": "resnet18",
+  "pretrained": true,
+  "params_M": 11.183,
+  "single_pass_s": 0.7424,
+  "throughput_iter_per_s": 328.83,
+  "img_size": 224
+}

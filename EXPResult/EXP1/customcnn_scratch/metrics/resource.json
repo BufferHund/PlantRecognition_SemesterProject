@@ -1,0 +1,8 @@
+{
+  "model": "customcnn",
+  "pretrained": false,
+  "params_M": 0.599,
+  "single_pass_s": 0.8121,
+  "throughput_iter_per_s": 334.7,
+  "img_size": 224
+}

@@ -1,0 +1,476 @@
+path,label
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/a3e3b178c.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/af181cd9c.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/f71a65a08.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/78730a816.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Charlock/87168f1c7.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/87429079a.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/ab3b58928.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/c629a95e2.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/79cc6a8e8.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/9ab1673ae.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/267ced076.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/20d3a67d3.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Common wheat/cf0197941.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/f263c0f9f.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/264e8b9b5.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Charlock/ba2e2326d.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Common wheat/30c632d2a.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Black-grass/7050b0b8a.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Maize/051ea51d0.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Maize/37156c661.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/62e0225ab.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/95f035f39.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/510f3ba19.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Charlock/704e5bf0a.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/d89fa34ab.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Maize/d3963a326.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/4d8c841b3.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/fced10d82.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Cleavers/a9b4417a7.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/9284ed9c9.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/fd0d400b6.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Maize/00a18f05e.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/6ec8464dd.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Cleavers/f185a1d75.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Black-grass/ae8f69724.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/3cac767c2.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/04fafa0d3.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/37b0e4e91.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Black-grass/54b2dac6e.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/a3290e2dc.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Black-grass/5db29d0b5.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/d690ebc8b.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/ba820bf35.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/b14b1357f.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/ff934fcc7.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/7b5ff3a68.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/eb6811993.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/b8ac37dcd.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Maize/d3cf21397.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/20a04ea79.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Charlock/1b8281227.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/6b6df19b2.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Black-grass/a0405de4d.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/a6c5ada78.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Maize/a47bdd663.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/00dd0d16a.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/a0a13a1fe.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Charlock/a04a7dda2.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/b25c85290.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/ad5906a2f.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/38156c37f.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/5b7582e22.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/32bcfcf02.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/db3847e4e.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/e4a149c23.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Black-grass/a47cfeec4.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/0f335c7a7.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/40321aa58.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/57731eb29.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/f253f407d.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/63bb36f63.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/09be59300.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/82b9d0a49.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/2240f47fd.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/cbd4362a2.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Charlock/0a7e1ca41.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/bc656f071.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/95e89ddd3.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Cleavers/5abac7fbf.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/ea5f902eb.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Charlock/c291766ce.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/2982d5c21.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Common wheat/f77095d24.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/a59405ba8.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Maize/8439a7dad.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Charlock/145635854.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/e3f88fcde.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/3d32f86f4.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Maize/3ef465952.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/5684aa726.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/f0c068cc9.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/5b5ad325a.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/23125a26e.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/4c81ff749.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/b4383df28.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/af355776d.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/917af97ab.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/950c3e930.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Charlock/eb9d116cf.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/90e1ab9bd.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/a8085a6fc.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/28da4b5c3.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/7c05c4f0e.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/2412cb19b.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/05598e057.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/7b1018f5f.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/d8dd45bb1.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/4d1241f40.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/fb894c60f.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/019c3bbea.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/4e8f9790e.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/5ace4b78d.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/b9fb44d3e.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Cleavers/323f03521.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/0a4ab470e.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Black-grass/88fceea2f.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/df62ac910.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/8349ffb69.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Charlock/34ada5879.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/85f1d46e7.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/0b91b1f50.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Black-grass/c1a625098.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/5f6ad629d.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/0a1480ed8.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Cleavers/299190b08.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/0f44cf2af.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Black-grass/af1b91028.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/72a81627f.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/74bb3f0c1.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Maize/749646c56.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Black-grass/2ed589264.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/875ef92d7.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/fdc682350.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/1266ac5cb.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/af36b12f3.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Charlock/7ed1aa0b2.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/6850ccd12.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/d0228efc3.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/1fae880b5.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/d62f8f844.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/218f3938f.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/ab66b14f0.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/c013688a9.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/1d9743b35.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/1ea513913.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/9ac112817.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Common wheat/6327092cc.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/145b9d73c.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/3c6f4fe90.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Charlock/6e31a4a1b.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/08fe5538d.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Charlock/2d9af457e.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/72b292a3b.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Maize/fb6328acb.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/ca507e99a.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/eddaf3d47.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/5b3fe64c3.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/3f130d295.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/620fdcc9b.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/433e4a3ff.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/f2e756037.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/aa0f9c454.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Black-grass/dcbd3fa08.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/576951fce.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/4dad46a5a.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/3585db717.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Charlock/c19bc586d.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/553e69068.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/57ebf5927.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/4bc35381d.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Charlock/bec896ebd.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Common wheat/2eb324e28.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/1a4f7a1e1.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/a6c5cd3b8.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/3fe014d30.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/dc351dfa4.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/89960b2fb.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/6e6b9a20f.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Maize/489da47a5.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/3f6425004.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Common wheat/ca5707e7b.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/d25c7447d.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/d512071bd.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common wheat/42646d53e.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Charlock/207c8f749.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/e984f580b.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Charlock/8b35222d0.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/34455bf75.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/c97427ee2.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common wheat/d14f74215.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Charlock/ce5473300.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Cleavers/42645d809.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/6ad2ae242.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/f17e5a3c3.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/e913e5ca6.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Cleavers/8cf59e291.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/98f407d78.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Black-grass/3ff68fa8a.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/e053702bb.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/caca90aca.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Charlock/79e819019.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/bcf088ff7.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Charlock/ca8f0f871.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Maize/606d5c83f.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/36c96eb0f.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/5186c72ca.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/c16801386.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Charlock/0c4a435c7.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/6c7043cc5.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/cb64ce021.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/6ac7f6411.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/58258e061.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/f50c8181a.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Cleavers/0ac0f0a66.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/811e2b508.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/dee2a5307.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/f052e1db1.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/7ba30d202.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/abd486e7b.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Cleavers/a06109e80.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Cleavers/1bc5bea6c.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Charlock/1d9676402.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Cleavers/7da3bda82.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/5f87b1a93.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/6fe76b379.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/3e2609d6a.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/e8870a1b1.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/ef286fe28.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Common wheat/2e7881f74.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Common wheat/9efa077b7.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/17bcc04ba.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/f284e84bc.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/2ed82c948.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Charlock/a8e7520de.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/d681d1b9b.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/2bdd11146.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/7d4cbdef9.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Charlock/8de73f114.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Maize/365ff4533.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/a89d6d72f.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Cleavers/be41914d8.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/a194c0dd6.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Cleavers/7b257e388.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/99a9b1567.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/6d623072a.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/5f128ee9b.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/dafec933b.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/bd3b1cb2e.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/b41816608.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Charlock/d8da05d11.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/6d0662339.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Cleavers/6e0fa9bcc.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Maize/19f880311.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/525ba66d4.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/e2e49c76e.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/f0e75e3bf.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/268e72cee.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/9360888bb.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/e60e41d92.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Cleavers/67afc84df.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Cleavers/df341f2d4.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/29bbab238.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/271f14517.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/9b3f2f7a1.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/bc3fc4221.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/bf351fa53.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/816965c05.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/e81a8dacb.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/078d42d74.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Charlock/63a3d8fa0.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/d94aa2cfc.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/60bdea399.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Common wheat/d42042a90.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/f3e74582f.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Cleavers/5439f9f36.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/7405aee1b.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/c8ce795f0.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/37b291dab.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Black-grass/2269e0a1e.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/0ae9acf83.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/06bbb09fb.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Black-grass/9052e3e7f.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Maize/fc68c0525.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/ee7e8f2d9.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/58e22d25a.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/41c73ed49.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/f506aa640.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/7ce630c2a.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/1a5354a5b.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Charlock/b1b089347.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/5a044c06b.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Maize/44d562432.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Black-grass/163e571a6.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Black-grass/3b7d1fe82.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/a666b103c.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/7175e9d7d.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/7195021a5.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/883119ddc.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/3a64d0130.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/16f17c7d1.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/d106fca01.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/071c8beda.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/8d65bde6a.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common wheat/c97e74bd0.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/34a7bd232.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/3c2e5c7ad.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/cf5ec9251.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/9985f08e7.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common wheat/d9e0c6708.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/a2478ca57.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Cleavers/75371625f.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Black-grass/775735fb9.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Charlock/c61d3ee3c.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/d569925d7.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Maize/abadd72ab.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/618922851.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/3827a969f.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/a85a62939.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Black-grass/adc5443dc.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/dd3f63ce0.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Cleavers/06f447848.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/726c2bcb1.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Cleavers/2261906cf.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Black-grass/f423f84da.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/a140930c0.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Charlock/8194b5c6a.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/26220c5b7.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/2a1966ff8.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Cleavers/9214c2997.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/6c404cca3.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Black-grass/e5a6e8ebc.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Charlock/d903a2a6d.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/3b3ace0ee.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/464dc6968.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common wheat/7afa50d94.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/4c443aaf8.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/c423a70c3.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Cleavers/c3f4b326a.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/4387157f1.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/2a3704b9a.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/ec4ad48f5.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/774bf7020.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/7026b68e9.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/d5d909ed5.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Charlock/410598462.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Black-grass/0d4f74f4a.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/0bccfe309.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Black-grass/a0baf5f7b.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/f9aca9f1f.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/46fa84dad.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/840fdb281.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Cleavers/863b1dbd4.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Cleavers/0bcf29af7.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/9064640e8.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/465a268eb.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/eac94830d.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Black-grass/675a6956e.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/d308ef21b.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Black-grass/6afa7c717.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/05a56fcc4.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/7278694d0.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/6af4dbc15.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common wheat/43795dcec.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Charlock/d8690d738.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/db4775157.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Maize/a353bdbd9.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/3f408c295.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/9e0ef139f.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/5629b467c.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/5f3a942e4.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/8e1efae9e.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/523dae399.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Maize/84ba8107f.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Common wheat/bad392832.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/946b48f62.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/db5a0970c.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/ba5c8f87f.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/b81690ccf.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/ac6377773.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Maize/16511dd22.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Cleavers/c977c4903.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/5fa64f7ab.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/4d2efbb45.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Cleavers/a562c2b14.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/789f292b3.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/fe2016da9.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Charlock/d5798e4cd.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/ac88a6662.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/4a320f8be.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/68f032e5b.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/80d615a4a.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/7e2d89904.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/ad6b8c74c.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/413a7e4be.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common wheat/a86689d83.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/a7d5da828.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/3217c1887.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/aeff0bf8c.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/2de4ec934.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/463ec2b22.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/076b550b6.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common wheat/f3743e142.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/193f4c946.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/6c9de038f.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common wheat/98756045d.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/8c215ce50.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/04559c69c.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/1012b652c.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/c5535e3b8.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Charlock/0d5f555a3.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/6793f76c0.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/63bbcaafe.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/1ea84cfc7.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/7b4682569.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/51adc8b21.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/44f0c7749.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common wheat/373a8d06b.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/9b5bc7b68.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/e32fdd03a.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Charlock/bde26ebbb.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/ecf58ad3a.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/605478787.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/ac6625b0f.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/071907a13.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/d88a609d1.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/64f46676b.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/2d131b7e6.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/1007fd84f.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Maize/92c06eaca.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/fb57ce659.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Black-grass/470608aba.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/1968974c8.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/ce0fb7c25.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/143203030.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/0140dfc02.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Charlock/270209308.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/968f9d619.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Charlock/9c55fa55a.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/fa468d955.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/ff771d06e.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common wheat/7d87648c2.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/b8e6c7b66.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/70aedd14d.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/a80860b81.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common wheat/9b3ec2b81.png,Common wheat
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/56ee7f90f.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Maize/49e58b605.png,Maize
+/kaggle/input/plant-seedlings-classification/train/Charlock/99f80eb00.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/b75110745.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/44db98326.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/abe1fdd5c.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/5fec8215c.png,Shepherds Purse
+/kaggle/input/plant-seedlings-classification/train/Black-grass/ebd2350df.png,Black-grass
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/83be0f22d.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/f4a2acf34.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Charlock/4e4234576.png,Charlock
+/kaggle/input/plant-seedlings-classification/train/Sugar beet/4eb03def0.png,Sugar beet
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/c3aa41593.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/cb698f0ea.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/fb95e0cfa.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/35e31b2b5.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/c35d5c3c3.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/18b1f733a.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/0b26e2d09.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Cleavers/899877fe1.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Cleavers/bd6681c02.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/01e90ef62.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Common Chickweed/ea395710d.png,Common Chickweed
+/kaggle/input/plant-seedlings-classification/train/Fat Hen/c068b9fb7.png,Fat Hen
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/cd4bcc457.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Small-flowered Cranesbill/741dc05da.png,Small-flowered Cranesbill
+/kaggle/input/plant-seedlings-classification/train/Cleavers/ebe7c4208.png,Cleavers
+/kaggle/input/plant-seedlings-classification/train/Loose Silky-bent/4481bff7c.png,Loose Silky-bent
+/kaggle/input/plant-seedlings-classification/train/Scentless Mayweed/f86cff347.png,Scentless Mayweed
+/kaggle/input/plant-seedlings-classification/train/Shepherds Purse/8e3462539.png,Shepherds Purse

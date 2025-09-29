@@ -1,0 +1,8 @@
+{
+  "model": "convnext_tiny",
+  "pretrained": true,
+  "params_M": 27.829,
+  "single_pass_s": 1.1433,
+  "throughput_iter_per_s": 150.47,
+  "img_size": 224
+}
